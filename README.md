@@ -1,6 +1,6 @@
 ## Hi there!👋
 
-I'm Bella, a Full Stack Developer working in Jakarta, Indonesia
+I'm Bella, a Software Engineer working in Jakarta, Indonesia
 
 BIO
 
